@@ -1,0 +1,57 @@
+# Metadata for Train Station Chinese Names
+---
+Identifier: 'c89bb614-b4ac-4669-8c65-a2e2ea5211a6'
+Name: 'train-station-chinese-names'
+Title: 'Train Station Chinese Names'
+Description: 'List of Train Station Chinese Names.'
+Topics:
+  - 'Transport'
+Keywords:
+  - 'Train Station'
+Publisher:
+  Name: 'Land Transport Authority'
+  Admin 1:
+    Name: 'Land Transport Authority'
+    Department: 'Land Transport Authority'
+    Email: 'Datamall@lta.gov.sg'
+Sources:
+  - 'Land Transport Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Coverage: '2017-06-27 to 2017-06-27'
+Last Updated: '2017-06-20T08:21:26.033724'
+Resources:
+  -
+    Identifier: '65c1093b-0c34-41cf-8f0e-f11318766298'
+    Title: 'Train Station Chinese Names'
+    Url: 'https://storage.data.gov.sg/train-station-chinese-names/resources/train-station-chinese-names-2017-06-15T02-48-54Z.csv'
+    Format: 'CSV'
+    Coverage: '2017-06-27 to 2017-06-27'
+    Description: 'Train station names updated for DTL2. (Dec 2015)'
+    Last Updated: '2017-06-15T02:48:54.835480'
+    Schema:
+      -
+        Name: 'stn_code'
+        Title: 'Station Code'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'mrt_station_english'
+        Title: 'MRT Station English'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'mrt_station_chinese'
+        Title: 'MRT Station Chinese'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'mrt_line_english'
+        Title: 'MRT Line English'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'mrt_line_chinese'
+        Title: 'MRT Line Chinese'
+        Type: 'text'
+        Sub Type: 'general'
